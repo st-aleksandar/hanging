@@ -1,0 +1,7 @@
+.letterHolder {
+    display: inline;
+    margin-right: 10px;
+    border-bottom: 3px solid #ccc;
+    font-size: 25px;
+    padding: 0 10px;
+}
